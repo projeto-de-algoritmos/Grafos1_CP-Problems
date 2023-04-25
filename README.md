@@ -20,6 +20,8 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
+<code>g++ nomeArquivo.cpp -std=c++11 -o teste</code>
+
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
