@@ -30,6 +30,8 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
+<code>g++ nomeArquivo.cpp -std=c++11 -o teste</code>
+
 ## Outros
 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
