@@ -15,6 +15,7 @@
 Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces, Beecrowd e OnlineJudge. As questões escolhidas foram:
 
 - 948A - [Protect Sheep](https://codeforces.com/problemset/problem/948/A)
+- 520B - [Two Buttons](https://codeforces.com/problemset/status?my=on)
 
 ## Screenshots
 
