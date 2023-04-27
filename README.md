@@ -5,10 +5,10 @@
 
 ## Alunos
 
-| Matrícula  | Aluno                  |
-| ---------- | ---------------------- |
-| 19/0016663 | Lucas Pimentel Quintão |
-| 20/0017519 | Eurico Abreu           |
+| Matrícula  | Aluno                        |
+| ---------- | ---------------------------- |
+| 19/0016663 | Lucas Pimentel Quintão       |
+| 20/0017519 | Eurico Menezes de Abreu Neto |
 
 ## Sobre
 
