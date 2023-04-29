@@ -16,6 +16,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 
 - 948A - [Protect Sheep](https://codeforces.com/problemset/problem/948/A)
 - 520B - [Two Buttons](https://codeforces.com/problemset/status?my=on)
+- ABC300C - [Cross](https://atcoder.jp/contests/abc300/tasks/abc300_c)
 
 ## Screenshots
 
