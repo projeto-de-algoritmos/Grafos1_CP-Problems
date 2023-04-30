@@ -12,12 +12,6 @@ int main()
 
     cin >> n >> m;
 
-    if (n == 1 && m == 1)
-    {
-        cout << clicks << endl;
-        return 0;
-    }
-
     for (int i = 0; i < n; i++)
     {
         cin >> picture[i];
@@ -31,21 +25,36 @@ int main()
             {
                 clicks++;
                 q.push({i, j});
-
+                visited[i][j] = 1;
                 while (!q.empty())
                 {
                     tie(l, c) = q.front();
-                    visited[l][c] = 1;
+
                     q.pop();
 
                     if (l < n - 1 && !visited[l + 1][c] && picture[l + 1][c] == '.')
+                    {
                         q.push({l + 1, c});
+                        visited[l + 1][c] = 1;
+                    }
+
                     if (l > 0 && !visited[l - 1][c] && picture[l - 1][c] == '.')
+                    {
                         q.push({l - 1, c});
+                        visited[l - 1][c] = 1;
+                    }
+
                     if (c < m - 1 && !visited[l][c + 1] && picture[l][c + 1] == '.')
+                    {
                         q.push({l, c + 1});
+                        visited[l][c + 1] = 1;
+                    }
+
                     if (c > 0 && !visited[l][c - 1] && picture[l][c - 1] == '.')
+                    {
                         q.push({l, c - 1});
+                        visited[l][c - 1] = 1;
+                    }
                 }
             }
         }
