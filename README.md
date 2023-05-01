@@ -20,6 +20,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 1907 - [Colouring Game Scenarios](https://www.beecrowd.com.br/judge/en/problems/view/1907)
 - 510B - [Fox And Two Dots](https://codeforces.com/problemset/problem/510/B)
 - 339C - [Xenia and Weights](https://codeforces.com/problemset/problem/339/C)
+- 893C - [Rumor](https://codeforces.com/contest/893/problem/C)
 
 ## Screenshots
 
