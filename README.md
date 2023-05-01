@@ -32,6 +32,8 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 
 ![image](./assets/AC_CodeForces.png)
 
+![image](./assets/codeforces-eurico.png)
+
 ## Instalação
 
 **Linguagem**: C++
