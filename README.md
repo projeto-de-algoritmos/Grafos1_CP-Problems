@@ -47,3 +47,7 @@ Para executar os códigos rode os seguintes comandos:
 ## Uso
 
 Para testar os exercícios, recomendamos acessar a página do exercício que deseja executar e observar os padrões dos casos de testes disponíveis.
+
+## Vídeo
+
+O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](https://youtu.be/Rt0szzcN36w).
