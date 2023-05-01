@@ -21,6 +21,7 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 - 510B - [Fox And Two Dots](https://codeforces.com/problemset/problem/510/B)
 - 339C - [Xenia and Weights](https://codeforces.com/problemset/problem/339/C)
 - 893C - [Rumor](https://codeforces.com/contest/893/problem/C)
+- 1020B - [Badge](https://codeforces.com/problemset/problem/1020/B)
 
 ## Screenshots
 
