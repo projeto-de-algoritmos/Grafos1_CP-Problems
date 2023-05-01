@@ -1,7 +1,6 @@
 # CP-Problems
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 
@@ -12,7 +11,7 @@
 
 ## Sobre
 
-Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces, Beecrowd e OnlineJudge. As questões escolhidas foram:
+Para este projeto da disciplina optamos por fazer questões de Programação Competitiva de diferentes dificuldades, utilizando os sites CodeForces, Beecrowd, AtCoder e OnlineJudge. As questões escolhidas foram:
 
 - 948A - [Protect Sheep](https://codeforces.com/problemset/problem/948/A)
 - 520B - [Two Buttons](https://codeforces.com/problemset/status?my=on)
@@ -25,20 +24,24 @@ Para este projeto da disciplina optamos por fazer questões de Programação Com
 
 ## Screenshots
 
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Accepteds
+
+![image](./assets/AC_AtCoder_Cross.png)
+
+![image](./assets/AC_beecrowd_1907.png)
+
+![image](./assets/AC_CodeForces.png)
 
 ## Instalação
 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++
+
+Para executar os códigos rode os seguintes comandos:
+
+<code>g++ nomeArquivo.cpp -std=c++11 -o exec</code>
+
+<code>./exec</code>
 
 ## Uso
 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-<code>g++ nomeArquivo.cpp -std=c++11 -o teste</code>
-
-## Outros
-
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para testar os exercícios, recomendamos acessar a página do exercício que deseja executar e observar os padrões dos casos de testes disponíveis.
