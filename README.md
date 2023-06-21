@@ -50,4 +50,4 @@ Para testar os exercícios, recomendamos acessar a página do exercício que des
 
 ## Vídeo
 
-O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link](https://youtu.be/Rt0szzcN36w).
+O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link youtube](https://youtu.be/Rt0szzcN36w) | [link sharepoint](https://unbbr.sharepoint.com/:v:/s/GravaoPA509/EcQErZ4ztCZJkNYHONIOmEEBzpusWODrrZXTSZnsPTbE1g?e=3907fU).
