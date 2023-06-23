@@ -51,3 +51,7 @@ Para testar os exercícios, recomendamos acessar a página do exercício que des
 ## Vídeo
 
 O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link youtube](https://youtu.be/Rt0szzcN36w) | [link sharepoint](https://unbbr.sharepoint.com/:v:/s/GravaoPA509/EcQErZ4ztCZJkNYHONIOmEEBzpusWODrrZXTSZnsPTbE1g?e=3907fU).
+
+<video width="320" height="240" controls>
+  <source src="assets/PA_Trabalho1.mp4" type="video/mp4">
+</video>
