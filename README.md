@@ -52,6 +52,6 @@ Para testar os exercícios, recomendamos acessar a página do exercício que des
 
 O vídeo para explicação e demonstração do trabalho pode ser encontrado a partir do seguinte [link youtube](https://youtu.be/Rt0szzcN36w) | [link sharepoint](https://unbbr.sharepoint.com/:v:/s/GravaoPA509/EcQErZ4ztCZJkNYHONIOmEEBzpusWODrrZXTSZnsPTbE1g?e=3907fU).
 
-<video width="320" height="240" controls>
-  <source src="assets/PA_Trabalho1.mp4" type="video/mp4">
-</video>
+Vídeo sem compressão se encontra na pasta assets
+
+https://github.com/projeto-de-algoritmos/Grafos1_CP-Problems/assets/64049043/8de9c173-22b3-464c-94e5-ea22668cd445
